@@ -13,4 +13,15 @@
 <tr><td valign="top">09/09/2023</td><td valign="top">Jack Arana</td><td valign="top">Desarrollo del Domain-Driven y del Software Deployment Configuration</td></tr>
 <tr><td valign="top">09/09/2023</td><td valign="top">André Arroyo</td><td valign="top">Desarrollo del capítulo V: Product Implementation, Validation & Deployment -> 5.1 Software Configuration Management</td></tr>
 <tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td rowspan="11" valign="top">TB2</td><td valign="top">20/09/2023</td><td valign="top">Marco Collantes</td><td valign="top">Correción de items del capítulo 4</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top"></td></tr>
 </table>
