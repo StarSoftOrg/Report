@@ -42,6 +42,7 @@
 | TB1     | 08/09/2023 | Paolo Padilla   | Desarrollo del capítulo IV: Diagram Class                                                                           |
 | TB1     | 09/09/2023 | Jack Arana      | Desarrollo del Domain-Driven y del Software Deployment Configuration                                                |
 | TB1     | 09/09/2023 | André Arroyo    | Desarrollo del capítulo V: Product Implementation, Validation & Deployment -> 5.1 Software Configuration Management |
+| TB2     | 20/09/2023 | Marco Collantes | Correción de items del capítulo 4 |
 | TB2     | 21/09/2023 | Jack Arana      | Se corrigio palabras clave de la caratula, registro de versiones y Collaboration Insights                           |
 | TB2     | 22/09/2023 | Jack Arana      | Se corrigio la información e imagenes del capitulo III                                                              |
 | TB2     | 22/09/2023 | Leonardo Taype  | Se corrigio la información e imágenes del capitulo II                                                               |
