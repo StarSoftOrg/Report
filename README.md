@@ -4,22 +4,24 @@
 
 **Carrera:** Ingeniería de software
 
-**Curso:** Aplicaciones Web
+**Curso:** Desarrollo de Aplicaciones Open Source
 
-**Sección:** SW52
+**Sección:** WS51
 
 **Informe de Trabajo Final**
 
 **Profesor:** Angel Augusto Velasquez Nuñez
 
-**Nombre del Startup:** WebMinds
+**Nombre del Startup:** Starsoft
 
-**Nombre del Producto:** ParkEase
+**Nombre del Producto:** GoCareer
 
 **Integrantes:**
-- Orlando Arturo Roca Huapaya - u201919742
-- Paolo Sebastian Padilla Advincula- u202117993
-- Piero Mendoza Pimentel - u201923446
+- Jack Arana Ramos (u202121875)
+- Marco Collantes Artola (u201410183)
+- Leonardo Taype Fernandez (u20201e840)
+- André Alonso Arroyo Ormeño (u202114714)
+- Paolo Sebastian Padilla Advincula ()
 
 **Ciclo:** 2023-02
 
@@ -30,43 +32,26 @@
 
 | Versión | Fecha       | Autor   | Descripción de modificación                              |
 |---------|-------------|---------|---------------------------------------------------------|
-| TB1     | 20-08-2023  | Orlando  | Descripción de la startup, segmento objetivo, competidores |
-| TB1     | 30-08-2023  | Orlando  | Lean UX Canvas|
-| TB1     | 01-09-2023  | Antonella  |Lean-UX-Problem-Statements|
-| TB1     | 02-09-2023  | Paolo  | Needfinding|
-| TB1     | 05-09-2023  | Paolo  | Information Architecture|
-| TB1     | 05-09-2023  | Paolo  | Landing Page Wireframe|
-| TB1     | 06-09-2023  |Antonella | chapter 5|
-| TB1     | 25-08-2023  | Piero    | Se añadieron los resumenes y analisis de las entrevistas de los segmentos objetivos |
-| TB1     | 06-09-2023  | Piero    | Se añadieron los wireframes y mock ups del web application y arreglos en el landing page |
-| TB1     | 07-09-2023  | Piero    | Se corrigieron algunos errores en los user persona y añadieron links |
-| TB1     | 20-09-2023  | Piero    | Se corrigieron errores en los nombres de los archivos de analisis de entrevista y se añadieron sus imagenes |
+| TB1     | 27/08/2023  | André Arroyo | Desarrollo del capítulo I: Introducción |
+| TB1     | 30/08/2023  | Leonardo Taype | Desarrollo del capítulo II: Competidores |
+| TB1     | 01/09/2023  | Paolo Padilla | Desarrollo del capítulo II: Needfinding |
+| TB1     | 02/09/2023  | Marco Collantes | Registro de la entrevista para el Needfinding |
+| TB1     | 03/09/2023  | André Arroyo | Registro de entrevista para el Needfinding |
+| TB1     | 04/09/2023  | Jack Arana | Desarrollo del capítulo III: Especificación de Requerimientos |
+| TB1     | 04/09/2023  | Marco Collantes | Desarrollo del capítulo IV: Product Design |
+| TB1     | 08/09/2023  | Paolo Padilla | Desarrollo del capítulo IV: Diagram Class |
+| TB1     | 09/09/2023  | Jack Arana | Desarrollo del Domain-Driven y del Software Deployment Configuration |
+| TB1     | 09/09/2023  | André Arroyo | Desarrollo del capítulo V: Product Implementation, Validation & Deployment -> 5.1 Software Configuration Management |
+| TB2     | 21/09/2023  | Jack Arana | Se corrigio palabras clave de la caratula, registro de versiones y Collaboration Insights |
 
 
 
 
 # Project Report Collaboration Insights 
 
-[Enlace al Repositorio del Informe en GitHub](https://github.com/WebMindsGroup/WebMinds-Report.git)
+[Enlace al Repositorio del Informe en GitHub](https://github.com/orgs/StarsoftOrg/repositories)
 
 
-
-| Commit ID | Autor       | Fecha        | Descripción del Commit                          |
-|-----------|-------------|--------------|-------------------------------------------------|
-|e697dc70ad35bd254c8ac004750057e65f851d83| Orlando| 20-08-2023   | doc: Advance startup description and target segment in chapter 1 - Added more details to the startup description and expanded on the target segment information in the first chapter.|
-|c2e95ee1bdb3bceda88301a0e164233a0e81fb4f| Orlando| 20-08-2023   |doc: Progress competitors section in chapter 2 - Expanded and updated the competitors section in the second chapter.|
-|45f3f8cb8df5c5461a45ae0ab23d413fb3594dbe| Orlando| 30-08-2023   |doc: Canvas and Hypothesis Statement added|
-|d0fadf606272fd3a9a188c153843642969a3de9f| Antonella    | 01-09-2023   |chore: add initial files of chapter 1: the themes of chapter 1 were developed|
-|a0f586e2d0bfee386ae0c3ca3b6e076ff10579ac| Antonella    | 06-09-2023   |chore: correction of chapter 1: the modifications of chapter 1 were made|
-|369a92199b966f03cf151a3ba78201aa2027c682| Piero    | 25-08-2023   |doc: Summary and analysis of interviews added|
-|5c8de82dd325b6febd5b62caf01d9c5c92d9ae7a| Piero    | 06-09-2023   |doc: Wireframes, Mock-ups and prototype added|
-|fbebf398cec1cc3612377a7dbf330a2d0e67afe5| Piero    | 06-09-2023   |feat: About us added|
-|e45db51b321758933fb6a26910a583758dc6a095| Piero    | 06-09-2023   |fix: Change content in About Us|
-|20bd9614ca847b192ad81ca13e3761b492935508| Piero    | 06-09-2023   |feat: host information Added|
-|7fd4420c5e81bf8018d4eb76ff1c15735897ac82| Piero    | 06-09-2023   |feat: hero added|
-|11e7f0905d6496e8dd595d2b7266dafc73df5fe8| Piero    | 07-09-2023   |doc: User personas update|
-|5c8de82dd325b6febd5b62caf01d9c5c92d9ae7a| Piero    | 07-09-2023   |doc: Web applications prototype links fixed|
-|fb664ec38bb84070b51dd887ab9493f6bbcb65c2| Piero    | 20-09-2023   |doc: incorrect information fixed and interview images added|
 
 
 # Contenido
