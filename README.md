@@ -48,7 +48,9 @@
 | TP1     | 21/09/2023 | André Arroyo    | Correción items del capitulo V                           |
 | TP1     | 22/09/2023 | Jack Arana      | Se corrigio la información e imagenes del capitulo III y del Domain-Driven                                          |
 | TP1     | 22/09/2023 | Leonardo Taype  | Se corrigio la información e imágenes del capitulo II                                                               |
+| TP1     | 26/09/2023 | Marco Collantes  | Sprint Planning y Sprint Backlog agregados |
 | TP1     | 26/09/2023 | Jack Arana  | Se actualizo el formato y estructura de la entrega, al README.md                                                                |
+
 
 # Project Report Collaboration Insights
 
