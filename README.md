@@ -42,93 +42,93 @@
 | TB1     | 08/09/2023 | Paolo Padilla   | Desarrollo del capítulo IV: Diagram Class                                                                           |
 | TB1     | 09/09/2023 | Jack Arana      | Desarrollo del Domain-Driven y del Software Deployment Configuration                                                |
 | TB1     | 09/09/2023 | André Arroyo    | Desarrollo del capítulo V: Product Implementation, Validation & Deployment -> 5.1 Software Configuration Management |
-| TP1     | 20/09/2023 | Marco Collantes | Correción de items del capítulo 4 |
-| TP1     | 20/09/2023 | André Arroyo    | Correción de items del capítulo 1 |
+| TP1     | 20/09/2023 | Marco Collantes | Correción de items del capítulo 4                                                                                   |
+| TP1     | 20/09/2023 | André Arroyo    | Correción de items del capítulo 1                                                                                   |
 | TP1     | 21/09/2023 | Jack Arana      | Se corrigio palabras clave de la caratula, registro de versiones y Collaboration Insights                           |
-| TP1     | 21/09/2023 | André Arroyo    | Correción items del capitulo V                           |
+| TP1     | 21/09/2023 | André Arroyo    | Correción items del capitulo V                                                                                      |
 | TP1     | 22/09/2023 | Jack Arana      | Se corrigio la información e imagenes del capitulo III y del Domain-Driven                                          |
 | TP1     | 22/09/2023 | Leonardo Taype  | Se corrigio la información e imágenes del capitulo II                                                               |
-| TP1     | 26/09/2023 | Marco Collantes  | Sprint Planning y Sprint Backlog agregados |
-| TP1     | 26/09/2023 | Jack Arana  | Se actualizo el formato y estructura de la entrega, al README.md                                                                |
-| TP1     | 28/09/2023 | Andre Arroyo  | Capitulo V: Desarrollo del Sprint 1                                                                |
+| TP1     | 26/09/2023 | Marco Collantes  | Sprint Planning y Sprint Backlog agregados                                                                          |
+| TP1     | 26/09/2023 | Jack Arana  | Se actualizo el formato y estructura de la entrega, al README.md                                                    |
+| TP1     | 28/09/2023 | Andre Arroyo  | Capitulo V: Desarrollo del Sprint 1 y 2                                                                             |
+
 
 
 # Project Report Collaboration Insights
 
 [Enlace al Repositorio del Informe en GitHub](https://github.com/orgs/StarsoftOrg/repositories)
 
-# Contenido
+[Enlace al video de exposición en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121875_upc_edu_pe/EcNYrH8peyZNhPGExe4u10gB0HbJg7IaObDQx32SG-BZLg)
+- [Capítulo I: Introducción](#).
+    - [1.1. Startup Profile](#11-startup-profile-a-namestartup-profilea)
+        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+        - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+        - [1.2.2. Lean UX Process](#122-lean-ux-process)
+            - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+            - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+            - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+            - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+        - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-- [Capítulo I: Introducción]()
-    - [1.1. Startup Profile]()
-        - [1.1.1. Descripción de la Startup]()
-        - [1.1.2. Perfiles de integrantes del equipo]()
-    - [1.2. Solution Profile]()
-        - [1.2.1. Antecedentes y problemática]()
-        - [1.2.2. Lean UX Process]()
-            - [1.2.2.1. Lean UX Problem Statements]()
-            - [1.2.2.2. Lean UX Assumptions]()
-            - [1.2.2.3. Lean UX Hypothesis Statements]()
-            - [1.2.2.4. Lean UX Canvas]()
-        - [1.3. Segmentos objetivo]()
+- [Capítulo II: Requirements Elicitation & Analysis](#)
+    - [2.1. Competidores](#21-competidores)
+        - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+        - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+        - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+    - [2.3. Needfinding](#23-needfinding)
+        - [2.3.1. User Personas](#)
+        - [2.3.2. User Task Matrix](#)
+        - [2.3.3. User Journey Mapping](#)
+        - [2.3.4. Empathy Mapping](#)
+        - [2.3.5. As-is Scenario Mapping](#)
 
-- [Capítulo II: Requirements Elicitation & Analysis]()
-    - [2.1. Competidores]()
-        - [2.1.1. Análisis competitivo]()
-        - [2.1.2. Estrategias y tácticas frente a competidores]()
-    - [2.2. Entrevistas]()
-        - [2.2.1. Diseño de entrevistas]()
-        - [2.2.2. Registro de entrevistas]()
-        - [2.2.3. Análisis de entrevistas]()
-    - [2.3. Needfinding]()
-        - [2.3.1. User Personas]()
-        - [2.3.2. User Task Matrix]()
-        - [2.3.3. User Journey Mapping]()
-        - [2.3.4. Empathy Mapping]()
-        - [2.3.5. As-is Scenario Mapping]()
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements)
+    - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-map)
+    - [3.2. User Stories](#32-user-stories)
+    - [3.3. Impact Mapping](#33-impact-mapping)
+    - [3.4. Product Backlog](#34-product-backlog)
 
-- [Capítulo III: Requirements Specification]()
-    - [3.1. To-Be Scenario Mapping]()
-    - [3.2. User Stories]()
-    - [3.3. Impact Mapping]()
-    - [3.4. Product Backlog]()
-
-- [Capítulo IV: Product Design]()
-    - [4.1. Style Guidelines]()
-        - [4.1.1. General Style Guidelines]()
-        - [4.1.2. Web Style Guidelines]()
-    - [4.2. Information Architecture]()
-        - [4.2.1. Organization Systems]()
-        - [4.2.2. Labeling Systems]()
-        - [4.2.3. SEO Tags and Meta Tags]()
-        - [4.2.4. Searching Systems]()
-        - [4.2.5. Navigation Systems]()
-    - [4.3. Landing Page UI Design]()
+- [Capítulo IV: Product Design](#)
+    - [4.1. Style Guidelines](#41-style-guidelines)
+        - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+        - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+    - [4.2. Information Architecture](#42-information-architecture)
+        - [4.2.1. Organization Systems](#421-organization-systems)
+        - [4.2.2. Labeling Systems](#422-labeling-systems)
+        - [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+        - [4.2.4. Searching Systems](#424-searching-systems)
+        - [4.2.5. Navigation Systems](#425-navigation-systems)
+    - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
         - [4.3.1. Landing Page Wireframe]()
         - [4.3.2. Landing Page Mock-up]()
-    - [4.4. Web Applications UX/UI Design]()
+    - [4.4. Web Applications UX/UI Design](#44-web-applications-ux-ui-design)
         - [4.4.1. Web Applications Wireframes]()
         - [4.4.2. Web Applications Wireflow Diagrams]()
         - [4.4.3. Web Applications Mock-ups]()
         - [4.4.4. Web Applications User Flow Diagrams]()
-    - [4.5. Web Applications Prototyping]()
-    - [4.6. Domain-Driven Software Architecture]()
-        - [4.6.1. Software Architecture Context Diagram]()
-        - [4.6.2. Software Architecture Container Diagrams]()
-        - [4.6.3. Software Architecture Components Diagrams]()
-    - [4.7. Software Object-Oriented Design]()
-        - [4.7.1. Class Diagrams]()
+    - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+    - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+        - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+        - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+        - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
+        - [4.7.1. Class Diagrams](#)
         - [4.7.2. Class Dictionary]()
-    - [4.8. Database Design]()
+    - [4.8. Database Design](#48-database-design)
         - [4.8.1. Database Diagram]()
 
 - [Capítulo V: Product Implementation, Validation & Deployment]()
-    - [5.1. Software Configuration Management]()
+    - [5.1. Software Configuration Management](#51-software-configuration-management)
         - [5.1.1. Software Development Environment Configuration]()
         - [5.1.2. Source Code Management]()
         - [5.1.3. Source Code Style Guide & Conventions]()
         - [5.1.4. Software Deployment Configuration]()
-    - [5.2. Landing Page, Services & Applications Implementation]()
+    - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
         - [5.2.X. Sprint n]()
             - [5.2.X.1. Sprint Planning n]()
             - [5.2.X.2. Sprint Backlog n]()
@@ -148,8 +148,8 @@
     - [Conclusiones y recomendaciones]()
     - [Video About-the-Team]()
 
-- [Bibliografía]()
-- [Anexos]()
+- [Bibliografía](#bibliografía)
+- [Anexos](#anexos)
 
 # Student Outcome
 
@@ -157,6 +157,8 @@
 | :- | :- | :- |
 |<p>**Comunica oralmente sus ideas** </p><p>**y/o resultados con objetividad a**</p><p>**público de diferentes**</p><p>**especialidades y niveles**</p><p>**jerárquicos, en el marco del** </p><p>**desarrollo de un proyecto en**</p><p>**ingeniería.**</p>|<p>**Collantes Artola, Marco Antonio**</p><p>**TB1**</p><p>En esta entrega, me centré en explicar la idea principal de nuestro proyecto. Debido a la cantidad de ítems solicitados hubo que hacer modificaciones y arreglos de algunas ideas ya establecidas al inicio y hubo que notificarlas a los compañeros para mantener un mejor control de las mismas en otras relacionadas</p><p>**TP1**</p><p>Experimenté algunas dificultades técnicas durante esta entrega, pero me aseguré de comunicar mis inconvenientes a mis compañeros para que el trabajo no se vea afectado. También busqué motivar a mis compañeros para que puedan terminar sus asignaciones correspondientes.</p><p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>Mi aporte en el equipo fue realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo participe en el desarrollo de la idea de negocio y aporte ideas para el desarrollo del logo.</p><p><p>**TP1**</p><p>Experimenté algunas dificultades en esta entrega, pero informe mis inconvenientes a mis compañeros para que el trabajo no se vea afectado. También motive a mis compañeros para el desarrollo de esta entrega.</p></p><p>**Taype Fernandez, Leonardo**</p><p>**TB1**</p><p>En esta entrega, me encargué en el desarrollo del logo de nuestra aplicación escuchando las recomendaciones de mis compañeros, se comunicó el proceso de manera oportuna,</p><p></p><p>**Paolo Sebastian Padilla Advincula**</p><p>**TB1**</p><p>En esta entrega, me encargué de desarrollar todo el needfinding, todo esto implica User Personas. User Task Matrix. User Journey Mapping. Empathy Mapping.. As-is Scenario Mapping y el capítulo IV diagram class</p><p></p><p>**Jack Arana Ramos**</p><p>**TB1**</p><p>En esta entrega, mi enfoque se centró en la especificacion de requerimientos. Estas actividades fueron cruciales para garantizar la solidez y la eficiencia de nuestro proyecto de ingeniería de software.</p><p></p><p> </p>|<p>Es importante poder comunicar todas las ideas que se pueden incluir o modificar para que los miembros del equipo puedan adaptarse con tiempo</p><p></p><p>Se necesita un buen nivel de coordinación para realizar las tareas de trabajo remoto, y poder comunicar cualquier inconveniente que uno pueda tener con el sistema</p><p>La comunicación continua en un lenguaje en común es fundamental para el éxito de un proyecto como el nuestro</p>|
 |<p>**Comunica en forma escrita ideas**</p><p>**y/o resultados con objetividad a**</p><p>**público de diferentes**</p><p>**especialidades y niveles**</p><p>**jerárquicos, en el marco del**</p><p>**desarrollo de un proyecto en**</p><p>**ingeniería.**</p>|<p>**Collantes Artola, Marco Antonio**</p><p>**TB1**</p><p>En esta entrega, me aseguré de comunicar de forma escrita en el documento todas las ideas que surgieron para complementar la idea de negocio principal, y aplicarlas con cuidado a nuestro resultado final</p><p>**TP1**</p><p>Correjí los items que me fueron asignados para esta entrega, y avancé lo que pude para contribuir en lo posible a un proyecto efectivo</p><p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>En esta entrega, me encargue de realizar en su totalidad el desarrollo del capítulo 1, teniendo en cuenta la idea de negocio y las correcciones que me hicieron mis compañeros. Adicionalmente, desarrolló en su totalidad el capítulo 5.1 para el cual fue necesario recopilar toda la informacion del proceso de elaboración de nuestro proyecto</p><p>**TP1**</p><p>En esta entrega me encargue de las correcciones del Capitulo I y Capitulo V. Adiconalmente, me encargue de realizar el sprint 1 perteneciente al 5.2</p><p>**Taype Fernandez, Leonardo**</p><p>**TB1**</p><p>En esta entrega me encargué del capítulo II, recopilando información y plasmando de forma escrita</p><p></p><p>**Paolo Sebastian Padilla Advincula**</p><p>**TB1**</p><p>En esta entrega, me encargué de desarrollar todo el needfinding, todo esto implica User Personas. User Task Matrix. User Journey Mapping. Empathy Mapping.. As-is Scenario Mapping y el capítulo IV diagram class</p><p></p><p>**Jack Arana Ramos**</p><p>**TB1**</p><p>En esta entrega, me encargué en la construcción de una arquitectura de software sólida y orientada al negocio, que cumpliera con los requisitos y objetivos específicos del dominio empresarial. Estas actividades fueron fundamentales para garantizar que nuestro software fuera capaz de abordar con éxito los desafíos y necesidades empresariales.</p><p></p>|<p></p><p>El registro escrito debe ser conciso y lo más preciso posible con los objetivos del emprendimiento</p><p></p><p>Se debe tener cuidado con el contenido que se escribe en documentos oficiales o en plataformas de trabajo remoto como lo son Github, pues pueden afectar la imagen del equipo de desarrollo</p>|
+
+# Capítulo I: Introducción
 
 # 1.1 Startup Profile
 
@@ -328,6 +330,8 @@ Son aquellos jóvenes quienes se encuentran pronto a graduarse de la secundaria 
 **Especialistas**
 
 Són psicólogos quienes poseen el conocimiento necesario para poder orientar a las personas a encontrar una carrera profesional que les guste estudiar. Asimismo, consideramos como especialistas a las personas que son profesionales en distintas áreas quienes poseen el conocimiento necesario para poder informar de forma adecuada sobre la carrera profesional que estudiaron.
+
+# Capítulo II: Requirements Elicitation & Analysis
 
 # 2.1. Competidores
 
@@ -1379,6 +1383,325 @@ Para esta sección creamos un repositorio en nuestra organización de github, lu
 
 ## 5.2.1. Sprint 1
 
+## 5.2.1. Sprint 1
+### 5.2.1.1 Sprint Planning 1
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación del landing page. Asimismo, también se evidenciará los avances del proyecto e insights de colaboración en el equipo a través de Github.
+
+|**Sprint #**|Sprint 1|
+| :- | - |
+|**Sprint Planning Background**||
+|**Date**|5 de septiembre del 2023|
+|**Time**|11:57 horas (GMT -5)|
+|**Location**|Modalidad remota por Whatssap|
+|**Prepared By**|StarSoft|
+|**Attendees (to planning meeting)**|Todos los miembros del grupo Starsoft|
+|**Sprint n – 1 Review Summary**|Dado que se trata del primer sprint, no hay un review summary de un sprint anterior.|
+|**Sprint n – 1 Retrospective Summary**|Dado que se trata del primer sprint, no hay un retrospective summary de un sprint anterior.|
+|**Sprint Goal & User Stories**||
+|**Sprint 1 Goal**|En este sprint se planea desarrollar el landing page, por lo tanto se conversó sobre el contenido de los textos dentro del landing page y el diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el landing page debe estar desplegado en Github Pages y cualquier usuario debería poder acceder y visualizar la página a través del link.|
+|**Sprint 1 Velocity**|4|
+|**Sum of Story Points**|4|
+
+### 5.2.1.2 Sprint Backlog 1
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint.
+
+**Captura de Pantalla del Trello:**
+
+![imagen de dashboard de Trello-Sprint 1](Images/Trello-sprint%201.png)
+
+Link a board en Trello: [Sprint 1 | GoCareer](https://trello.com/b/oulsJ4rV/sprint-1)
+
+
+<table><tr><th colspan="2" valign="top"><b>Sprint #</b></th><th colspan="6" valign="top">Sprint 1</th></tr>
+<tr><td colspan="2" valign="top"><b>User story</b></td><td colspan="6" valign="top"><b>Work Item / Task</b></td></tr>
+<tr><td valign="top"><b>Id</b> </td><td valign="top"><b>Title</b> </td><td valign="top"><b>Id</b> </td><td valign="top"><b>Title</b> </td><td valign="top"><b>Description</b> </td><td valign="top"><b>Estimation (Hours)</b></td><td valign="top"><b>Assigned To</b></td><td valign="top"><b>Status (To-do InProcess ToReview Done)</b></td></tr>
+<tr><td rowspan="2" valign="top"><p>E1-US01</p><p> </p><p></p></td><td rowspan="2" valign="top"><p>Barra de navegación en landing page</p><p> </p></td><td valign="top">W01</td><td valign="top">Navbar </td><td valign="top">Implementar navbar con menu y botón a aplicación </td><td valign="top">0.5</td><td valign="top">Jack Arana</td><td valign="top">Done</td></tr>
+<tr><td valign="top">W02</td><td valign="top">Responsive design Navbar</td><td valign="top"><p>Implementar diseño responsivo en la barra de navegación</p><p></p></td><td valign="top">0.5</td><td valign="top">Jack Arana</td><td valign="top">In Process</td></tr>
+<tr><td rowspan="42" valign="top">E1-US02</td><td rowspan="42" valign="top">Secciones de información sobre la aplicación</td><td rowspan="6" valign="top">W02</td><td rowspan="6" valign="top">Hero Section</td><td rowspan="6" valign="top">Desarrollar la Sección Hero</td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">Done</td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W03</td><td rowspan="6" valign="top">Features Section</td><td rowspan="6" valign="top">Desarrollar la Sección Features </td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">Done</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W04</td><td rowspan="6" valign="top">Plans Section</td><td rowspan="6" valign="top">Desarrollar la Sección Plans </td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">In Process</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W05</td><td rowspan="6" valign="top">Testimonials Section</td><td rowspan="6" valign="top">Desarrollar la Sección Testimonials </td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">In Process</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W06</td><td rowspan="6" valign="top">About us Section</td><td rowspan="6" valign="top">Desarrollar la Sección About us </td><td rowspan="6" valign="top">0.5</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">In Process</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W07</td><td rowspan="6" valign="top">Contact Section</td><td rowspan="6" valign="top">Desarrollar la Sección Contact </td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">Done</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W008</td><td rowspan="6" valign="top">Responsive design sections</td><td rowspan="6" valign="top"><p>Implementar diseño responsivo en el landing page</p><p></p></td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">In Process</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td valign="top">E1-US03</td><td valign="top">Footer para landing page</td><td valign="top">W09</td><td valign="top">Footer</td><td valign="top">Implementar Footer para el landing page</td><td valign="top">0.5</td><td valign="top">Jack Arana</td><td valign="top">Done</td><td></td></tr>
+<tr><td rowspan="2" valign="top">E1-US04</td><td rowspan="2" valign="top">Versión en español de landing page</td><td valign="top">W10</td><td valign="top">Translate</td><td valign="top">Desarrollar traduccion en español e ingles</td><td valign="top">1</td><td valign="top">Jack Arana</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">W11</td><td valign="top">Button Translate</td><td valign="top">Desarrollar un boton con la funcion para la traduccion</td><td valign="top">0.5</td><td valign="top">Jack Arana</td><td valign="top">In Process</td><td></td></tr>
+</table>
+
+### 5.2.1.3 Development Evidence for Sprint Review
+A continuación, se presentan los commits realizados en el repositorio del landing page en Github.
+
+Link del repositorio de landing page en Github: [https://github.com/StarsoftOrg/GoCareer-LandingPage](https://github.com/StarsoftOrg/GoCareer-LandingPage)
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b> </th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Commited on (Date)</b></th></tr>
+<tr><td rowspan="19" valign="top">GoCareer-Landing Page</td><td rowspan="10" valign="top">main</td><td valign="top">01ef53f88a2f435186f40ce2759837c079a51ba9</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">73acd9ad2892effca649d05e41e446c06cea875a</td><td valign="top">chore: Landing Page v1 </td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">6fb75b837be99caa3bba1a70d1841736b33eded5</td><td valign="top">Merge pull request #1 from StarsoftOrg/lp-collantes</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">533b7a883d2aceeffea8e2da248dfce3d25047a2</td><td valign="top">Actualizar la estructura del directorio para mejorar la organización del proyecto</td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">f263627c0ba61c93853ce13856b6eaec20726b3e</td><td valign="top">Merge pull request #2 from StarsoftOrg/arack</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">763ba86952a4814ada146c416c9c58ad7f89deca</td><td valign="top">Remove contact.html and gocareer.html</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">861664eaa545d2764692b7fdd1b3be17bcfb502e</td><td valign="top">Update index.html in one page format</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">e566d4ead1caaed40f957977f71c800d5fb1f874</td><td valign="top">update css files</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">bb44e859fb7dc0ed95fb9e69357614ad9582cee3</td><td valign="top">Merge pull request #3 from StarsoftOrg/arack</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">1a5247d1f380a2c8ecf1e2a2e110e6446b2d530c</td><td valign="top">feat(landing): Updated logo</td><td valign="top"></td><td valign="top">06/09/2023 </td></tr>
+<tr><td rowspan="7" valign="top">arack</td><td valign="top">01ef53f88a2f435186f40ce2759837c079a51ba9</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">73acd9ad2892effca649d05e41e446c06cea875a</td><td valign="top">chore: Landing Page v1 </td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">6fb75b837be99caa3bba1a70d1841736b33eded5</td><td valign="top">Merge pull request #1 from StarsoftOrg/lp-collantes</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">533b7a883d2aceeffea8e2da248dfce3d25047a2</td><td valign="top">Actualizar la estructura del directorio para mejorar la organización del proyecto</td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">763ba86952a4814ada146c416c9c58ad7f89deca</td><td valign="top">Remove contact.html and gocareer.html</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">861664eaa545d2764692b7fdd1b3be17bcfb502e</td><td valign="top">Update index.html in one page format</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td valign="top">e566d4ead1caaed40f957977f71c800d5fb1f874</td><td valign="top">update css files</td><td valign="top"></td><td valign="top">05/09/2023 </td></tr>
+<tr><td rowspan="2" valign="top">lp-collantes</td><td valign="top">01ef53f88a2f435186f40ce2759837c079a51ba9</td><td valign="top">Initial commit</td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+<tr><td valign="top">73acd9ad2892effca649d05e41e446c06cea875a</td><td valign="top">chore: Landing Page v1 </td><td valign="top"></td><td valign="top">05/09/2023</td></tr>
+</table>
+
+### 5.2.1.4 Testing Suite Evidence for Sprint Review
+En este sprint se han incluido las pruebas de aceptación en Gherkin. El siguiente link se trata del repositorio de las pruebas de aceptación: [https://github.com/StarsoftOrg/GoCareer-acceptance-tests](https://github.com/StarsoftOrg/GoCareer-acceptance-tests)
+
+<table><tr><th valign="top">Repository</th><th valign="top">Branch</th><th valign="top">Commit Id </th><th valign="top">Commit Message</th><th valign="top">Commit Message Body</th><th valign="top">Commited on (Date)</th></tr>
+<tr><td rowspan="7" valign="top">GoCareer-acceptance-tests</td><td rowspan="7" valign="top">main</td><td valign="top">fd764de38ffc5c54d9f1f10fc2f524b4a97b2117</td><td valign="top">initial commit</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">fac1d18dc3aa3c007f672d9c1a4610668056c8a4</td><td valign="top">feat: epic 1 added</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">1d5c7897cbe9e117dcfa04b939f9906fe3390ca4</td><td valign="top">feat: epic 2 added</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">39bdceb3eed29c1d82b08e2ec27e8ebd273522</td><td valign="top">feat: epic 3 added</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">2221c2f290ff1c63c6b3bbd6649beced41b7feb7</td><td valign="top">feat: epic 4 added</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">adbd19b65ce263b78e14c506bd3ff8c091388d04</td><td valign="top">feat: epic 5 added</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top">46f22826d3f4039f8dd3780cc37166e92ec98cb2</td><td valign="top">feat: epic 6 added</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+</table>
+
+### 5.2.1.5 Execution Evidence for Sprint Review.
+Para esta entrega, el equipo Prosoft logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización y la aplicación que ofrecemos.
+
+![mockup 1](Images/lpmock1-spr![Contributors main-Sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FContributors%20main-Sprint%201.png)
+![Contriubutors participants-Sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FContriubutors%20participants-Sprint%201.png)
+![Deploy-instruction 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FDeploy-instruction%201.png)
+![Deploy-instruction 2.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FDeploy-instruction%202.png)
+![Deploy-instruction 3.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FDeploy-instruction%203.png)
+![lpmock1-sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2Flpmock1-sprint%201.png)
+![lpmock2-sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2Flpmock2-sprint%201.png)
+![lpmock3-sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2Flpmock3-sprint%201.png)
+![Network Graph-sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FNetwork%20Graph-sprint%201.png)
+![Trello-sprint 1.png](..%2F..%2F..%2FDownloads%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FProject-Report-Cap-tulo-V-Product-Implementation-Validation-Deployment%2FImages%2FTrello-sprint%201.png)int%201.png)
+
+![mockup 2](Images/lpmock2-sprint%201.png)
+
+![mockup 3](Images/lpmock3-sprint%201.png)
+
+### 5.2.1.6 Services Documentation Evidence for Sprint Review
+Para la elaboración del sprint 1, se ha desarrollado únicamente el landing page, por lo cual no se emplea el desarrollo de web services o web applications.
+
+### 5.2.1.7 Software Deployment Evidence for Sprint Review
+Para el sprint 1, se ha desarrollado el landing page. Para el despliegue del landing page se han utilizado las siguientes herramientas:
+
+- Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page.
+- Git Flow: Flujo de trabajo que ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page,
+- GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+- Github Pages: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar el landing page.
+
+### 5.2.1.8 Team Collaboration Insights during Sprint
+El equipo desarrolló el landing page mediante el uso de las ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama main. A continuación, se presenta el insight del equipo a través de la plataforma GitHub:
+
+**Contributors**
+
+![contributors general](Images/Contributors%20main-Sprint%201.png)
+
+![contributors participants](Images/Contriubutors%20participants-Sprint%201.png)
+
+**Network Graph**
+
+![Insight branch](Images/Network%20Graph-sprint%201.png)
+
+**5.2.2. Sprint 2**
+**
+
+5\.2.2.1 Sprint Planning 2
+A continuación, se presentará el sprint planning 2 donde se mostrarán las evidencias de planificación e implementación de la Aplicación Web. Asimismo, también se evidenciará los avances del proyecto e insights de colaboración en el equipo a través de Github.
+
+
+|**Sprint #**|Sprint 2|
+| :- | - |
+|**Sprint Planning Background**||
+|**Date**|22 de septiembre del 2023|
+|**Time**|10:00am|
+|**Location**|Modalidad remota por Discord|
+|**Prepared By**|StarSoft|
+|**Attendees (to planning meeting)**|Todos los miembros del grupo Starsoft|
+|**Sprint n – 1 Review Summary**|Avanzar con los tasks in Process del Sprint 1, secciones pendientes y responsividad|
+|**Sprint n – 1 Retrospective Summary**|`      `Culminar el Desarrollo del Landing Page Responsive|
+|**Sprint Goal & User Stories**||
+|**Sprint 1 Goal**|En este sprint se planea terminar el Landing Page Responsive y desarrollar la Aplicación Web, por lo tanto se conversó sobre el contenido de los textos dentro del landing page y el diseño que se ha implementado anteriormente a través de Figma. Al finalizar este sprint, el landing page debe estar responsivo y desplegado en Github Pages, y de la misma forma un primer avance de nuestra Aplicación Web.|
+|**Sprint 1 Velocity**|4|
+|**Sum of Story Points**|4|
+
+5\.2.2.2 Sprint Backlog 2
+
+En esta seccion se muestran los tasks que se realizaron en el presente sprint.
+
+**Captura de Pantalla del Trello:**
+
+![Interfaz de usuario gráfica Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.001.png)
+
+Link a board en Trello: [Sprint 2 | GoCareer](https://trello.com/b/xrR7Xi6E/sprint-2)
+
+
+<table><tr><th colspan="2" valign="top"><b>Sprint #</b></th><th colspan="6" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top"><b>User story</b></td><td colspan="6" valign="top"><b>Work Item / Task</b></td></tr>
+<tr><td valign="top"><b>Id</b> </td><td valign="top"><b>Title</b> </td><td valign="top"><b>Id</b> </td><td valign="top"><b>Title</b> </td><td valign="top"><b>Description</b> </td><td valign="top"><b>Estimation (Hours)</b></td><td valign="top"><b>Assigned To</b></td><td valign="top"><b>Status (To-do InProcess ToReview Done)</b></td></tr>
+<tr><td valign="top"><p>E1-US01</p><p> </p><p></p></td><td valign="top"><p>Barra de navegación en landing page</p><p> </p></td><td valign="top">W02</td><td valign="top">Responsive design Navbar</td><td valign="top"><p>Implementar diseño responsivo en la barra de navegación</p><p></p></td><td valign="top">0\.5</td><td valign="top">Jack Arana</td><td valign="top">Done</td></tr>
+<tr><td rowspan="24" valign="top">E1-US02</td><td rowspan="24" valign="top">Secciones de información sobre la aplicación</td><td rowspan="6" valign="top">W04</td><td rowspan="6" valign="top">Plans Section</td><td rowspan="6" valign="top">Desarrollar la Sección Plans </td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Collantes</td><td rowspan="6" valign="top">In Process</td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W05</td><td rowspan="6" valign="top">Testimonials Section</td><td rowspan="6" valign="top">Desarrollar la Sección Testimonials </td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">Done</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W06</td><td rowspan="6" valign="top">About us Section</td><td rowspan="6" valign="top">Desarrollar la Sección About us </td><td rowspan="6" valign="top">0\.5</td><td rowspan="6" valign="top">Collantes</td><td rowspan="6" valign="top">In Process</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td rowspan="6" valign="top">W008</td><td rowspan="6" valign="top">Responsive design sections</td><td rowspan="6" valign="top"><p>Implementar diseño responsivo en el landing page</p><p></p></td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack Arana</td><td rowspan="6" valign="top">Done</td><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td valign="top">E1-US04</td><td valign="top">Versión en español de landing page</td><td valign="top">W11</td><td valign="top">Button Translate</td><td valign="top">Desarrollar un boton con la funcion para la traduccion</td><td valign="top">0\.5</td><td valign="top">Leo</td><td valign="top">In Process</td><td></td></tr>
+<tr><td valign="top">E4-US02</td><td valign="top">Seguimiento de Aptitudes de estudiantes</td><td valign="top">W12</td><td valign="top">Seguimiento de usuario</td><td valign="top">Implementar un vista de seguimiento  para el especialisra</td><td valign="top">3</td><td valign="top">Leo</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">E2-US01</td><td valign="top">Barra de navegacion de la App</td><td valign="top">W13</td><td valign="top">Navbar de la App</td><td valign="top">Desarrollar la barra de navegacion</td><td valign="top">1</td><td valign="top">Jack Arana</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">E2-US04</td><td valign="top">Informacion de carrera</td><td valign="top">W14</td><td valign="top">Barra de busqueda</td><td valign="top">Desarrollar la barra de busqueda de home</td><td valign="top">1</td><td valign="top">Jack Arana</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">E2-US02</td><td valign="top">Configuracion de perfil</td><td valign="top">W15</td><td valign="top">Perfil de usuario</td><td valign="top">Desarrollar el perfil de usuario</td><td valign="top">1</td><td valign="top">Jack Arana</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">E2-US04</td><td valign="top">Registro de cuenta</td><td valign="top">W16</td><td valign="top">Registro de usuario</td><td valign="top">Desarrollar la el registro para los usuarios</td><td valign="top">1</td><td valign="top">Conllantes</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">E2-US03</td><td valign="top">Recuperacion de contraseña</td><td valign="top">W17</td><td valign="top">Recuperacion de contraseña</td><td valign="top">Desarrollar lla recuperacion de contraseña</td><td valign="top">1</td><td valign="top">Conllantes</td><td valign="top">Done</td><td></td></tr>
+<tr><td valign="top">E2-US02</td><td valign="top">Inicio de Sesion</td><td valign="top">W18</td><td valign="top">Inicio de Sesion</td><td valign="top">Desarrollar lla el inicio del sesion de la app</td><td valign="top">1</td><td valign="top">Conllantes</td><td valign="top">Done</td><td></td></tr>
+</table>
+
+5\.2.2.3 Development Evidence for Sprint Review
+
+
+A continuación, se presentan los commits realizados en el repositorio de la Aplicación Web en Github.
+
+Link del repositorio de la Aplicación Web en Github:[ ](https://github.com/Testigos-de-Vue/jobsync-landing)
+
+[StarsoftOrg/GoCareer-OpenSourceApp (github.com)](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp)
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b> </th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Commited on (Date)</b></th></tr>
+<tr><td rowspan="19" valign="top">GoCareer-OpenSourceApp</td><td rowspan="10" valign="top"></td><td valign="top">62f142a767183ca5a0d7b7f3f33bb6b14c4cdf91</td><td valign="top">chore: initial config</td><td valign="top"></td><td valign="top">16/09/2023</td></tr>
+<tr><td valign="top">b6b37fe016c2a1a76d49c3583269a2646cad827e</td><td valign="top">feat(register): new user and login interfaces v1</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">898fe3c0ce5c8262cb4b9cb3e59fbe9cb0454765</td><td valign="top">feat(register): forgot password interface v1</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">325d7cbbb93cb494faec2744ff7a56d4625c5b24</td><td valign="top">feat(app): add public folder and gocareer</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">d7c908cf519e337528d88c08caed76b47f3ecc15</td><td valign="top">feat(images): added images for the landing page</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">3e095932cf5fa58efcdb060737641f30d878cb47</td><td valign="top">feat(public): add components and pages</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">4be89cff85c2409d764ccc505ff2cd20691ec5c6</td><td valign="top">feat(src): added general CSS styles</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">b60c75a62693685ad122a14fd5bfbda45e91c0e8</td><td valign="top">feat(shared): added the file material.module.ts</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">8d11f31376a65ecffd121ace517022ae65e95e7f</td><td valign="top">feat(public): updated header and footer components for landing page</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">eb2dedc17f8a8c36a2ea38d1f2895c860a5259af</td><td valign="top">feat(public): updated the not-found page</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td rowspan="7" valign="top"></td><td valign="top">e9d938526d65f8c2bbe7d3337fcd8b73611daf46</td><td valign="top">feat(src): updated general styles</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">38634530a37e412596eaa003db504b9ce60d3cc3</td><td valign="top">feat(app-routing): added routes for landing page and not found page</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">3226ef6263468e630249b43d77e4d357037f4386</td><td valign="top">fix(public): fixed unnecessary properties in html and css</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">412383428c882ad26c6e9778974e25cedab6583b</td><td valign="top">Merge pull request #1 from StarsoftOrg/feature/arana</td><td valign="top"></td><td valign="top">18/09/2023</td></tr>
+<tr><td valign="top">8e0cdcaf33027c6f862d41b684e730efd485cfab</td><td valign="top">Merge pull request #2 from StarsoftOrg/feature/auth</td><td valign="top"></td><td valign="top">25/09/2023</td></tr>
+<tr><td valign="top">336e89c3f9babb60ab3b39ff4a9efd1a53a9b9f5</td><td valign="top">fix(app): update public directory</td><td valign="top"></td><td valign="top">25/09/2023</td></tr>
+<tr><td valign="top">3dfc9fe743c6c13b59cb81ed0c662c976b2a7dcb</td><td valign="top">feat(navbar): added navigation bar component</td><td valign="top"></td><td valign="top">25/09/2023</td></tr>
+<tr><td rowspan="2" valign="top"></td><td valign="top">d581e7446cd659795442df5c76a6c4230650d6fd</td><td valign="top">feat(navbar): added navigation redirects for each section</td><td valign="top"></td><td valign="top">25/09/2023</td></tr>
+<tr><td valign="top">279e4e44fd1745a3a754dfe1a51fa37bf564ac2f</td><td valign="top">feat(navbar): add navbar v1</td><td valign="top"></td><td valign="top">25/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">780d24eb4f78c06b8c3fb1cba186e8d5b333dabc</td><td valign="top">Merge pull request #3 from StarsoftOrg/feature/navbar</td><td valign="top"></td><td valign="top">25/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">3d649e710fa715b63729d670586d9e32ea48b6ac</td><td valign="top">feat(search): added the Search component</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">c9c5e2777b3400c19b1451bc7dfcf239385e32a3</td><td valign="top">feat(rectangular-card): added the rectangular card component</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">4680d08a50c455f98718c7ba3c2bd9255577e842</td><td valign="top">feat(home): added the Home interface component</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">d88157acbfa10ca4d15bade09c6ef9fb72904966</td><td valign="top">feat(images): added home images</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">aadf9d93213dd80904f62cec0ae23df29ff83b9c</td><td valign="top">feat(navbar): updated redirects</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">9c462044046f4f0d8873ca1ab9cddf8be75d259c</td><td valign="top">chore(gocareer): Create User Profile Model and Component</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">326ee7af42f85cac4b7cd7310519b55f665c6274</td><td valign="top">feat(new user): update in New User Component and related elements</td><td valign="top"></td><td valign="top">27/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">7ff4bd29f81079516c36d132b351e4024fc1a730</td><td valign="top">feat(newuser): New User component update</td><td valign="top"></td><td valign="top">27/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">cbcfb8e7b21f816254ffaff7bce89b88cbb07a3e</td><td valign="top">Merge pull request #4 from StarsoftOrg/feature/home-student</td><td valign="top"></td><td valign="top">27/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">15c5e98406e84f85b312240ea79cc024afa3a949</td><td valign="top">feat(login): add new css styles</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">c1ba0b4fa7f6d20103f6634e94371340e83e3a44</td><td valign="top">chore(auth): Updated new routes and styles</td><td valign="top"></td><td valign="top">28/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">3d649e710fa715b63729d670586d9e32ea48b6ac</td><td valign="top">feat(search): added the Search component</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">c9c5e2777b3400c19b1451bc7dfcf239385e32a3</td><td valign="top">feat(rectangular-card): added the rectangular card component</td><td valign="top"></td><td valign="top">26/09/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">4680d08a50c455f98718c7ba3c2bd9255577e842</td><td valign="top">feat(home): added the Home interface component</td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">d88157acbfa10ca4d15bade09c6ef9fb72904966</td><td valign="top">feat(images): added home images</td><td valign="top"></td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">aadf9d93213dd80904f62cec0ae23df29ff83b9c</td><td valign="top">feat(navbar): updated redirects</td><td valign="top"></td><td valign="top"></td></tr>
+</table>
+5\.2.2.4 Testing Suite Evidence for Sprint Review
+En el alcance del sprint 2 se ha desarrollado el front end de la aplicación web como primera instancia, por lo que no se evidencia de testing.
+
+
+5\.2.2.5 Execution Evidence for Sprint Review
+
+Login
+
+![Texto Descripción generada automáticamente con confianza media](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.002.png)
+
+Register
+
+![Interfaz de usuario gráfica, Texto, Aplicación Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.003.png)
+
+Experts:
+
+![Interfaz de usuario gráfica, Texto Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.004.png)
+Users-specialist
+
+![Interfaz de usuario gráfica, Aplicación, Sitio web Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.005.png)
+
+5\.2.2.6 Services Documentation Evidence for Sprint Review
+
+
+5\.2.2.7 Software Deployment Evidence for Sprint Review
+La web application se desplegó en Netlify
+
+![](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.006.png)
+
+Se realizó una conexión entre Netlify con nuestro repositorio en GitHub
+
+![Texto Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.007.png)
+
+5\.2.2.8 Team Collaboration Insights during Sprint**
+
+
+**![Interfaz de usuario gráfica Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.008.png)**
 
 
 
