@@ -22,7 +22,7 @@
 - Marco Collantes Artola (u201410183)
 - Leonardo Taype Fernandez (u20201e840)
 - André Alonso Arroyo Ormeño (u202114714)
-- Paolo Sebastian Padilla Advincula ()
+- Lorenzo Navarro (u201713141)
 
 **Ciclo:** 2023-02
 
@@ -188,7 +188,7 @@ Star Soft es un startup creado por estudiantes universitarios motivados por hace
 |:----------------------------------------| - |
 
 
-| ![Imagen de Lorenzo](Images/Lorenzo.jpeg) |<p>**Lorenzo Navarro(u201713141)**</p><p>*Ingeniería de Software*</p><p></p><p>Como estudiante de Ingenieria de Software, me comprometo a brindarle todo el apoyo necesario a mis compañeros para cumplir con todos los requerimientos que implica este proyecto.</p>|
+| ![Imagen de Lorenzo](Images/Lorenzo.png) |<p>**Lorenzo Navarro(u201713141)**</p><p>*Ingeniería de Software*</p><p></p><p>Como estudiante de Ingenieria de Software, me comprometo a brindarle todo el apoyo necesario a mis compañeros para cumplir con todos los requerimientos que implica este proyecto.</p>|
 |:----------------------------------------| :- |
 
 # 1.2. Solution Profile
