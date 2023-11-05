@@ -188,7 +188,7 @@ Star Soft es un startup creado por estudiantes universitarios motivados por hace
 |:----------------------------------------| - |
 
 
-| ![Imagen de Paolo](Images/Paolo.png) |<p>**Paolo Sebastián Padilla Advincula(u202117993)**</p><p>*Ingeniería de Software*</p><p></p><p>Como estudiante de la carrera de Ingeniería de Software, apoyaré al equipo con mis conocimientos fuera y dentro de la universidad. Esto brindará un desarrollo óptimo durante el campo estudiantil.</p>|
+| ![Imagen de Lorenzo](Images/Lorenzo.jpeg) |<p>**Lorenzo Navarro(u201713141)**</p><p>*Ingeniería de Software*</p><p></p><p>Como estudiante de Ingenieria de Software, me comprometo a brindarle todo el apoyo necesario a mis compañeros para cumplir con todos los requerimientos que implica este proyecto.</p>|
 |:----------------------------------------| :- |
 
 # 1.2. Solution Profile
