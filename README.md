@@ -51,6 +51,12 @@
 | TP1     | 26/09/2023 | Marco Collantes  | Sprint Planning y Sprint Backlog agregados                                                                          |
 | TP1     | 26/09/2023 | Jack Arana  | Se actualizo el formato y estructura de la entrega, al README.md                                                    |
 | TP1     | 28/09/2023 | Andre Arroyo  | Capitulo V: Desarrollo del Sprint 1 y 2                                                                             |
+|TB2 | 4/10/2023 | Marco Collantes | Actualización debido a cambios en el formato de elementos |
+|TB2 | 01/11/2023 | Jack Arana| Desarrollo del Sprint Planning 3 y Sprint Backlog 2|
+|TB2 | 01/11/2023 | Marco Collantes| Diseño de Validation Interviews y previa del Video about the product|
+|TB2 | 03/11/2023| André Alonso| Desarrollo de pantallas del Go Career-Open Source App|
+|TB2 | 04/11/2023 |André Alonso |Capítulo V: Desarrollo spring 3->5.2.2.3|
+
 
 
 
@@ -58,7 +64,9 @@
 
 [Enlace al Repositorio del Informe en GitHub](https://github.com/orgs/StarsoftOrg/repositories)
 
-[Enlace al video de exposición en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121875_upc_edu_pe/EcNYrH8peyZNhPGExe4u10gB0HbJg7IaObDQx32SG-BZLg)
+[Enlace al video de exposición en Microsoft Stream](https://drive.google.com/drive/folders/1lnl8AwekKy5b4kqJSpbieH9JCJh8A0ch)
+
+
 - [Capítulo I: Introducción](#).
     - [1.1. Startup Profile](#11-startup-profile-a-namestartup-profilea)
         - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -129,15 +137,33 @@
         - [5.1.3. Source Code Style Guide & Conventions]()
         - [5.1.4. Software Deployment Configuration]()
     - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-        - [5.2.X. Sprint n]()
-            - [5.2.X.1. Sprint Planning n]()
-            - [5.2.X.2. Sprint Backlog n]()
-            - [5.2.X.3. Development Evidence for Sprint Review]()
-            - [5.2.X.4. Testing Suite Evidence for Sprint Review]()
-            - [5.2.X.5. Execution Evidence for Sprint Review]()
-            - [5.2.X.6. Services Documentation Evidence for Sprint Review]()
-            - [5.2.X.7. Software Deployment Evidence for Sprint Review]()
-            - [5.2.X.8. Team Collaboration Insights during Sprint]()
+        - [5.2.1. Sprint 1]()
+            - [5.2.1.1. Sprint Planning 1]()
+            - [5.2.1.2. Sprint Backlog 1]()
+            - [5.2.1.3. Development Evidence for Sprint Review]()
+            - [5.2.1.4. Testing Suite Evidence for Sprint Review]()
+            - [5.2.1.5. Execution Evidence for Sprint Review]()
+            - [5.2.1.6. Services Documentation Evidence for Sprint Review]()
+            - [5.2.1.7. Software Deployment Evidence for Sprint Review]()
+            - [5.2.1.8. Team Collaboration Insights during Sprint]()
+        - [5.2.2. Sprint 2]()
+            - [5.2.2.1. Sprint Planning 2]()
+            - [5.2.2.2. Sprint Backlog 2]()
+            - [5.2.2.3. Development Evidence for Sprint Review]()
+            - [5.2.2.4. Testing Suite Evidence for Sprint Review]()
+            - [5.2.2.5. Execution Evidence for Sprint Review]()
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review]()
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review]()
+            - [5.2.2.8. Team Collaboration Insights during Sprint]()
+        - [5.2.3. Sprint 3]()
+            - [5.2.3.1. Sprint Planning 3]()
+            - [5.2.3.2. Sprint Backlog 3]()
+            - [5.2.3.3. Development Evidence for Sprint Review]()
+            - [5.2.3.4. Testing Suite Evidence for Sprint Review]()
+            - [5.2.3.5. Execution Evidence for Sprint Review]()
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review]()
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review]()
+            - [5.2.3.8. Team Collaboration Insights during Sprint]()
     - [5.3. Validation Interviews]()
         - [5.3.1. Diseño de Entrevistas]()
         - [5.3.2. Registro de Entrevistas]()
@@ -155,8 +181,9 @@
 
 |**Criterio específico**|**Acciones realizadas**|**Conclusiones**|
 | :- | :- | :- |
-|<p>**Comunica oralmente sus ideas** </p><p>**y/o resultados con objetividad a**</p><p>**público de diferentes**</p><p>**especialidades y niveles**</p><p>**jerárquicos, en el marco del** </p><p>**desarrollo de un proyecto en**</p><p>**ingeniería.**</p>|<p>**Collantes Artola, Marco Antonio**</p><p>**TB1**</p><p>En esta entrega, me centré en explicar la idea principal de nuestro proyecto. Debido a la cantidad de ítems solicitados hubo que hacer modificaciones y arreglos de algunas ideas ya establecidas al inicio y hubo que notificarlas a los compañeros para mantener un mejor control de las mismas en otras relacionadas</p><p>**TP1**</p><p>Experimenté algunas dificultades técnicas durante esta entrega, pero me aseguré de comunicar mis inconvenientes a mis compañeros para que el trabajo no se vea afectado. También busqué motivar a mis compañeros para que puedan terminar sus asignaciones correspondientes.</p><p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>Mi aporte en el equipo fue realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo participe en el desarrollo de la idea de negocio y aporte ideas para el desarrollo del logo.</p><p><p>**TP1**</p><p>Experimenté algunas dificultades en esta entrega, pero informe mis inconvenientes a mis compañeros para que el trabajo no se vea afectado. También motive a mis compañeros para el desarrollo de esta entrega.</p></p><p>**Taype Fernandez, Leonardo**</p><p>**TB1**</p><p>En esta entrega, me encargué en el desarrollo del logo de nuestra aplicación escuchando las recomendaciones de mis compañeros, se comunicó el proceso de manera oportuna,</p><p></p><p>**Paolo Sebastian Padilla Advincula**</p><p>**TB1**</p><p>En esta entrega, me encargué de desarrollar todo el needfinding, todo esto implica User Personas. User Task Matrix. User Journey Mapping. Empathy Mapping.. As-is Scenario Mapping y el capítulo IV diagram class</p><p></p><p>**Jack Arana Ramos**</p><p>**TB1**</p><p>En esta entrega, mi enfoque se centró en la especificacion de requerimientos. Estas actividades fueron cruciales para garantizar la solidez y la eficiencia de nuestro proyecto de ingeniería de software.</p><p></p><p> </p>|<p>Es importante poder comunicar todas las ideas que se pueden incluir o modificar para que los miembros del equipo puedan adaptarse con tiempo</p><p></p><p>Se necesita un buen nivel de coordinación para realizar las tareas de trabajo remoto, y poder comunicar cualquier inconveniente que uno pueda tener con el sistema</p><p>La comunicación continua en un lenguaje en común es fundamental para el éxito de un proyecto como el nuestro</p>|
-|<p>**Comunica en forma escrita ideas**</p><p>**y/o resultados con objetividad a**</p><p>**público de diferentes**</p><p>**especialidades y niveles**</p><p>**jerárquicos, en el marco del**</p><p>**desarrollo de un proyecto en**</p><p>**ingeniería.**</p>|<p>**Collantes Artola, Marco Antonio**</p><p>**TB1**</p><p>En esta entrega, me aseguré de comunicar de forma escrita en el documento todas las ideas que surgieron para complementar la idea de negocio principal, y aplicarlas con cuidado a nuestro resultado final</p><p>**TP1**</p><p>Correjí los items que me fueron asignados para esta entrega, y avancé lo que pude para contribuir en lo posible a un proyecto efectivo</p><p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>En esta entrega, me encargue de realizar en su totalidad el desarrollo del capítulo 1, teniendo en cuenta la idea de negocio y las correcciones que me hicieron mis compañeros. Adicionalmente, desarrolló en su totalidad el capítulo 5.1 para el cual fue necesario recopilar toda la informacion del proceso de elaboración de nuestro proyecto</p><p>**TP1**</p><p>En esta entrega me encargue de las correcciones del Capitulo I y Capitulo V. Adiconalmente, me encargue de realizar el sprint 1 perteneciente al 5.2</p><p>**Taype Fernandez, Leonardo**</p><p>**TB1**</p><p>En esta entrega me encargué del capítulo II, recopilando información y plasmando de forma escrita</p><p></p><p>**Paolo Sebastian Padilla Advincula**</p><p>**TB1**</p><p>En esta entrega, me encargué de desarrollar todo el needfinding, todo esto implica User Personas. User Task Matrix. User Journey Mapping. Empathy Mapping.. As-is Scenario Mapping y el capítulo IV diagram class</p><p></p><p>**Jack Arana Ramos**</p><p>**TB1**</p><p>En esta entrega, me encargué en la construcción de una arquitectura de software sólida y orientada al negocio, que cumpliera con los requisitos y objetivos específicos del dominio empresarial. Estas actividades fueron fundamentales para garantizar que nuestro software fuera capaz de abordar con éxito los desafíos y necesidades empresariales.</p><p></p>|<p></p><p>El registro escrito debe ser conciso y lo más preciso posible con los objetivos del emprendimiento</p><p></p><p>Se debe tener cuidado con el contenido que se escribe en documentos oficiales o en plataformas de trabajo remoto como lo son Github, pues pueden afectar la imagen del equipo de desarrollo</p>|
+|<p>**Comunica oralmente sus ideas** </p><p>**y/o resultados con objetividad a**</p><p>**público de diferentes**</p><p>**especialidades y niveles**</p><p>**jerárquicos, en el marco del** </p><p>**desarrollo de un proyecto en**</p><p>**ingeniería.**</p>|<p>**Collantes Artola, Marco Antonio**</p><p>**TB1**</p><p>En esta entrega, me centré en explicar la idea principal de nuestro proyecto. Debido a la cantidad de ítems solicitados hubo que hacer modificaciones y arreglos de algunas ideas ya establecidas al inicio y hubo que notificarlas a los compañeros para mantener un mejor control de las mismas en otras relacionadas</p><p></p><p>**TP1**</p><p>Experimenté algunas dificultades técnicas durante esta entrega, pero me aseguré de comunicar mis inconvenientes a mis compañeros para que el trabajo no se vea afectado. También busqué motivar a mis compañeros para que puedan terminar sus asignaciones correspondientes.</p><p></p><p>**TB2**</p><p>En esta entrega busqué motivar a mis compañeros, incluido el nuevo miembro, a realizar sus labores dentro del documento y los repositorios. Me aseguré de que cada uno cumpliera sus obligaciones en especial en las fechas más críticas de la entrega.</p><p></p><p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>Mi aporte en el equipo fue realizar revisiones oportunas en el trabajo para realizar un correcto desarrollo del TB1. Asimismo participe en el desarrollo de la idea de negocio y aporte ideas para el desarrollo del logo.<br>**TP1**<br>Experimenté algunas dificultades en esta entrega, pero informé mis inconvenientes a mis compañeros para que el trabajo no se vea afectado. También motive a mis compañeros para el desarrollo de esta entrega.<br>**TB2**<br>En el spring 3, me encargué del desarrollo de pantallas del web application. Asimismo, tuve que comunicar las dudas que tenia a mis compañeros, las cuales fueron absueltas y me permitió finalizar las tareas encargadas</p><p></p><p>**Taype Fernandez, Leonardo**</p><p>**TB1**</p><p>En esta entrega, me encargué en el desarrollo del logo de nuestra aplicación escuchando las recomendaciones de mis compañeros, se comunicó el proceso de manera oportuna,</p><p></p><p>**Paolo Sebastian Padilla Advincula**</p><p>**TB1**</p><p>En esta entrega, me encargué de desarrollar todo el needfinding, todo esto implica User Personas. User Task Matrix. User Journey Mapping. Empathy Mapping.. As-is Scenario Mapping y el capítulo IV diagram class</p><p></p><p>**Jack Arana Ramos**</p><p>**TB1**</p><p>En esta entrega, mi enfoque se centró en la especificación de requerimientos. Estas actividades fueron cruciales para garantizar la solidez y la eficiencia de nuestro proyecto de ingeniería de software.</p><p>**TP**</p><p>Mi contribución se centró en la ejecución exitosa del Sprint 2, sprint planning y sprint backlog, que fue fundamental en la revisión de dicho sprint. Esta experiencia enriqueció mis aptitudes para trabajar en equipo, impulsó mi crecimiento en el ámbito del desarrollo y me preparó para afrontar futuros desafíos en proyectos similares.</p><p>**TB2**</p><p>En el Sprint 3, mi enfoque se centró en el desarrollo del sprint planning y sprint backlog. Estas actividades me han brindado valiosas oportunidades para mejorar mis habilidades de colaboración en equipos dentro del ámbito de la ingeniería de software. Al mismo tiempo, he ganado una comprensión más profunda de los desafíos específicos de esta disciplina, lo que me ha mejorado en términos de preparación para aportar de manera más efectiva en proyectos futuros.</p><p> </p>|<p>**TB1**</p><p>En conclusión, nos enfocamos en diversas áreas clave, como la mejora de la experiencia del usuario, la arquitectura de software, el control de versiones, la investigación de Needfinding y la recopilación de información. Estas contribuciones conjuntas sentaron las bases para el éxito de nuestro proyecto y subrayan el progreso significativo en nuestro desarrollo y comprensión del campo de la ingeniería de software.</p><p>**TP**</p><p>En conclusión, no nos enfocamos en áreas clave como el desarrollo de sprints, la creación de documentación de servicios y la ejecución exitosa de tareas de revisión. Estas experiencias enriquecieron sus habilidades de colaboración, desarrollo y documentación, preparándonos para futuros desafíos en proyectos similares. El trabajo conjunto en el Sprint 2 y el fortalecimiento de sus competencias subrayan el progreso continuo en el campo de la ingeniería de software y su preparación para afrontar con éxito futuros proyectos.</p><p>**TB2**</p><p>En conclusión, avanzó significativamente nuestra capacidad para trabajar de manera efectiva en proyectos de ingeniería de software. Esto se reflejó en un mayor entendimiento de los desafíos específicos y las necesidades del campo, lo que nos preparó para contribuir de manera más efectiva en futuras iniciativas en esta área. Las actividades realizadas, como la Documentación de Servicios, el Despliegue de Software y la colaboración en equipos multidisciplinarios, contribuyeron al desarrollo de habilidades esenciales y al progreso en el campo de la ingeniería de software.</p>|
+|<p>**Comunica en forma escrita ideas**</p><p>**y/o resultados con objetividad a**</p><p>**público de diferentes**</p><p>**especialidades y niveles**</p><p>**jerárquicos, en el marco del**</p><p>**desarrollo de un proyecto en**</p><p>**ingeniería.**</p>|<p>**Collantes Artola, Marco Antonio**</p><p>**TB1**</p><p>En esta entrega, me aseguré de comunicar de forma escrita en el documento todas las ideas que surgieron para complementar la idea de negocio principal, y aplicarlas con cuidado a nuestro resultado final</p><p></p><p>**TP1**</p><p>Corregí los items que me fueron asignados para esta entrega, y avancé lo que pude para contribuir en lo posible a un proyecto efectivo</p><p></p><p>**TB2**</p><p>Desarrollé mis secciones asignadas y me aseguré de que las ya existentes fueran bastante coherentes con lo desarrollado por mis compañeros. También mejoré algunas que necesitaban ser mejoradas de cara a la nueva entrega, todo mientras informaba a mis compañeros</p><p></p><p>**Arroyo Ormeño, André Alonso**</p><p>**TB1**</p><p>En esta entrega, me encargue de realizar en su totalidad el desarrollo del capítulo 1, teniendo en cuenta la idea de negocio y las correcciones que me hicieron mis compañeros. Adicionalmente, desarrolló en su totalidad el capítulo 5.1 para el cual fue necesario recopilar toda la información del proceso de elaboración de nuestro proyecto<br>**TP1**<br>En esta entrega me encargue de las correcciones del Capitulo I y Capitulo V. Adicionalmente, me encargue de realizar el sprint 1 perteneciente al 5.2<br>**TB2**<br>En esta entrega me encargue de desarrollar las secciones del capítulo V: 5.2.3.2 y 5.2.3.3. Adicionalmente, me encargue de desarrollar las pantallas que me asignaron para la web application.</p><p></p><p>**Taype Fernandez, Leonardo**</p><p>**TB1**</p><p>En esta entrega me encargué del capítulo II, recopilando información y plasmando de forma escrita</p><p></p><p>**Paolo Sebastian Padilla Advincula**</p><p>**TB1**</p><p>En esta entrega, me encargué de desarrollar todo el needfinding, todo esto implica User Personas. User Task Matrix. User Journey Mapping. Empathy Mapping.. As-is Scenario Mapping y el capítulo IV diagram class</p><p></p><p>**Jack Arana Ramos**</p><p>**TB1**</p><p>En esta entrega, me encargué en la construcción de una arquitectura de software sólida y orientada al negocio, que cumpliera con los requisitos y objetivos específicos del dominio empresarial. Estas actividades fueron fundamentales para garantizar que nuestro software fuera capaz de abordar con éxito los desafíos y necesidades empresariales.</p><p>**TP**</p><p>Logré adquirir un profundo entendimiento, enfocándome en la creación de soluciones de software específicas para ese dominio. Este proceso me proporcionó una sólida comprensión de las necesidades y desafíos únicos que caracterizan a esta industria en particular, lo que me ha dejado bien preparado para abordar con éxito futuros proyectos y aplicaciones dentro de este ámbito.</p><p>**TB2**</p><p>He ampliado mi capacidad para colaborar en proyectos de ingeniería de software, centrándome en la comprensión de un dominio empresarial específico. Esta experiencia me ha proporcionado un conocimiento más sólido de los desafíos y requisitos distintivos de dicho sector, cumpliendo con el criterio específico de conocer al menos un sector empresarial o dominio de aplicación de soluciones de software. Por lo cual, esto me prepara de manera más efectiva para contribuir en futuros proyectos. </p>|<p>**TB1**</p><p>En conclusión,  adquirimos un profundo conocimiento del sector empresarial relacionado con el turismo, así como habilidades específicas en Information Architecture, arquitectura de software, gestión de configuración de software, y técnicas de investigación de Needfinding y Lean UX. Estas experiencias fortalecieron sus capacidades en la comprensión de los desafíos y necesidades de dominios empresariales específicos, y subrayan la importancia de recopilar información clave como base sólida para el desarrollo de aplicaciones. Estos logros colectivos los preparan de manera efectiva para futuros desafíos en proyectos relacionados con el turismo y otros dominios empresariales.</p><p>**TP**</p><p>En conclusión, adquirimos un profundo conocimiento en un sector empresarial específico, enfocándose en la creación de soluciones de software aplicadas a ese dominio. Esto nos proporcionó una comprensión sólida de las necesidades y desafíos únicos de ese sector, preparándonos para abordar con éxito futuros proyectos y aplicaciones en esa área en particular. El proceso de desarrollo de soluciones de software dentro de un contexto empresarial específico fortaleció su preparación y conocimiento en ese campo.</p><p>**TB2**</p><p>En conclusión, mejoramos en la capacidad para trabajar en proyectos de ingeniería de software, centrándonos en la comprensión de un dominio empresarial específico. Esto nos proporcionó un conocimiento más sólido de los desafíos y requisitos distintivos de ese sector, cumpliendo con el criterio específico de conocer al menos un sector empresarial o dominio de aplicación de soluciones de software. Estas experiencias los han preparado de manera efectiva para contribuir en futuros proyectos relacionados con ese ámbito específico. El equipo ha enriquecido sus habilidades en el desarrollo ágil y proyectos de software, y ha fortalecido su capacidad para trabajar en equipos multidisciplinarios, lo que les prepara para afrontar con éxito futuros desafíos en este campo.</p>|
+
 
 # Capítulo I: Introducción
 
@@ -1702,6 +1729,286 @@ Se realizó una conexión entre Netlify con nuestro repositorio en GitHub
 
 
 **![Interfaz de usuario gráfica Descripción generada automáticamente](Images/Aspose.Words.d0efbc15-6d1a-4ff3-b2f0-7fc647c01b77.008.png)**
+
+
+
+**5.2.3. Sprint 3**
+
+**5.2.3.1.Sprint Planning 3.**
+
+A continuación, se presentará el sprint planning 3 donde se mostrarán las evidencias de planificación e implementación del Web Services y correcciones del Web Application. Asimismo, también se evidenciará los avances del proyecto e insights de colaboración en el equipo a través de Github.
+
+
+|**Sprint #** |Sprint 3 |
+| :- | :- |
+|**Sprint Planning Background** ||
+|Date |2023-10-24 |
+|Time |11:00 am |
+|Location |Reunión virtual - Meet |
+|Prepared By |Jack Arana|
+|Attendees (to planning meeting) |Marco collantes, André Arroyo, Leonardo Taype y Jack Arana |
+|Sprint n – 1 Review Summary |Corrección de la Aplicación Web y hacerlo responsive |
+|Sprint n – 1 Retrospective Summary |Se alcanzaron las metas propuestas |
+|**Sprint Goal & User Stories** ||
+|Sprint 3 Goal |Avanzar el Backend (Web Services) y actualizar el documento acorde a nuestro avance |
+|Sprint n Velocity |10 Story Points |
+|Sum of Story Points |13 Story Points |
+
+**5.2.3.2.Sprint Backlog 3.**
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint.
+
+**Captura de Pantalla del Trello:**
+
+![](Images/sprint3-trello.png)
+
+Link a board en Trello: [Sprint 3 | GoCareer](https://trello.com/b/tSp3d86X/sprint-3)
+
+
+
+
+
+<table><tr><th colspan="2" valign="top"><b>Sprint #</b></th><th colspan="6" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top"><b>User story</b></td><td colspan="6" valign="top"><b>Work Item / Task</b></td></tr>
+<tr><td valign="top"><b>Id</b> </td><td valign="top"><b>Title</b> </td><td valign="top"><b>Id</b> </td><td valign="top"><b>Title</b> </td><td valign="top"><b>Description</b> </td><td valign="top"><b>Estimation (Hours)</b></td><td valign="top"><b>Assigned To</b></td><td valign="top"><b>Status</b> </td></tr>
+<tr><td valign="top"><p>E3-US06</p><p> </p><p></p></td><td rowspan="7" valign="top">Administrar usuarios que realizaron test vocacionales</td><td rowspan="6" valign="top">W04</td><td rowspan="6" valign="top">Test vocacionales</td><td rowspan="6" valign="top">Implementar opción para la realización de test vocacionales para usuarios estudiantes</td><td rowspan="6" valign="top">2</td><td rowspan="6" valign="top">Lorenzo</td><td rowspan="6" valign="top">Done</td></tr>
+<tr><td rowspan="6" valign="top"></td><td rowspan="6" valign="top">W06</td><td rowspan="6" valign="top">Calificar test</td><td rowspan="6" valign="top">Implementar opción para la calificación de test vocacionales por parte del usuario especialista</td><td rowspan="6" valign="top">1</td><td rowspan="6" valign="top">Jack</td><td rowspan="6" valign="top">In Process</td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td valign="top">E4-US02</td><td valign="top">Seguimiento de Aptitudes de estudiantes</td><td valign="top">W12</td><td valign="top">Seguimiento de usuario</td><td valign="top">Implementar de seguimiento  para el especialista</td><td valign="top">3</td><td valign="top">Jack</td><td valign="top">Done</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td valign="top">E2-US02</td><td valign="top">Configuración de perfil</td><td valign="top">W15</td><td valign="top">Perfil de usuario</td><td valign="top">Desarrollar el perfil de usuario</td><td valign="top">2</td><td valign="top">Lorenzo</td><td valign="top">Done</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td valign="top">E2-US04</td><td valign="top">Registro de cuenta</td><td valign="top">W16</td><td valign="top">Registro de usuario</td><td valign="top">Desarrollar la el registro para los usuarios</td><td valign="top">1</td><td valign="top">Leo</td><td valign="top">Done</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td valign="top">E2-US03</td><td valign="top">Recuperación de contraseña</td><td valign="top">W17</td><td valign="top">Recuperación de contraseña</td><td valign="top">Desarrollar la recuperación de contraseña</td><td valign="top">2</td><td valign="top">Conllantes</td><td valign="top">In Process</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td valign="top">E2-US02</td><td valign="top">Inicio de Sesión</td><td valign="top">W18</td><td valign="top">Inicio de Sesión</td><td valign="top">Desarrollar lla el inicio del sesión de la app</td><td valign="top">1</td><td valign="top">Conllantes</td><td valign="top">Done</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+**5.2.3.3.Development Evidence for Sprint Review.**
+En esta sección, se incluyen  los commits realizados a los repositorios del web application y API en Github.
+A continuación los links de los repositorios anteriormente mencionados:
+Web Application: [https://github.com/StarsoftOrg/GoCareer-OpenSourceApp
+](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp)API: [https://github.com/StarsoftOrg/GoCareer-API
+
+](https://github.com/StarsoftOrg/GoCareer-API)
+
+<table><tr><th valign="top"><b>Repository</b></th><th valign="top"><b>Branch</b></th><th valign="top"><b>Commit Id</b> </th><th valign="top"><b>Commit Message</b></th><th valign="top"><b>Commit Message Body</b></th><th valign="top"><b>Commited on (Date)</b></th></tr>
+<tr><td rowspan="20" valign="top">GoCareer-OpenSourceApp</td><td rowspan="20" valign="top">Develop</td><td valign="top">bda038b87b15c512fd1d1d1f32f48fa05f40890a</td><td valign="top">feat(login): updated styles</td><td valign="top"></td><td valign="top">04/10/2023</td></tr>
+<tr><td valign="top">094139f5499da714089ce15abe7d5130d57e743d</td><td valign="top">feat(signup): updated styles</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">2ca26f4a652bf16be6bde2d11c1c1c4971f3a264</td><td valign="top">feat(forgot-password): updated styles</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">45e2849d14d19c420d04367ce70aab3a3276a199</td><td valign="top">Merge pull request [#14](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/14) from StarsoftOrg/feature/auth</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">23143468b2c31f0a87af17480e64f02f321c8dc4</td><td valign="top">Merge pull request [#15](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/15) from StarsoftOrg/develop</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">c47d6dcc7b03ab975286f57378df04380c08b8bb</td><td valign="top">feat(navbar-st): updated styles</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">3741357f987b3d3b68becaa54c45512ee76559e2</td><td valign="top">feat(navbar-sp): updated styles</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">b8d2d9c3ce1a4693589550d63d41be158dc5b5da</td><td valign="top">chore(home): Update Home View</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">b60f14a79241ce8e76250248b20fd52f870ca16f</td><td valign="top">Merge pull request [#16](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/16) from StarsoftOrg/feature/navbar</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">cf3f277a59c52fb66fb47f4278749d256a355772</td><td valign="top">Merge pull request [#17](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/17) from StarsoftOrg/develop</td><td valign="top"></td><td valign="top">05/10/2023</td></tr>
+<tr><td valign="top">1e4391dfe3db7c5971d00f18a9ece1e99b9cd337</td><td valign="top">feat(home-student): Added responsive design</td><td valign="top"></td><td valign="top">06/10/2023</td></tr>
+<tr><td valign="top">d9e448ac1521c2f666a2a70c524fa70311641114</td><td valign="top">Merge pull request [#18](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/18) from StarsoftOrg/feature/student</td><td valign="top"></td><td valign="top">06/10/2023</td></tr>
+<tr><td valign="top">c9817aeb40615b69486b8eac3ca7b484c0597a1f</td><td valign="top">Merge pull request [#19](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/19) from StarsoftOrg/develop</td><td valign="top"></td><td valign="top">06/10/2023</td></tr>
+<tr><td valign="top">dd35eb69dfe592ab40d3f46b557e26a43c8911c5</td><td valign="top">feat(career-options):new page and data for career options</td><td valign="top"></td><td valign="top">06/10/2023</td></tr>
+<tr><td valign="top">471eec94b651e32f6daa2b7baf7a09f2e63def34</td><td valign="top">Merge pull request [#20](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/20) from StarsoftOrg/feat/career</td><td valign="top"></td><td valign="top">06/10/2023</td></tr>
+<tr><td valign="top">92b0734251cfa671a0cd3861d19dc6218ed77780</td><td valign="top">feat(student): added view talks and tests</td><td valign="top"></td><td valign="top">06/10/2023</td></tr>
+<tr><td valign="top">898cdf8d51f03b09a1ddc24ff0cee34ccc0688ec</td><td valign="top">Merge pull request [#21](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/21) from StarsoftOrg/develop</td><td valign="top"></td><td valign="top">08/10/2023</td></tr>
+<tr><td valign="top">c519172dd0ed2f77abbf4b2f2a506c5db5f9866d</td><td valign="top">Merge pull request [#22](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/22) from StarsoftOrg/feature/specialist</td><td valign="top"></td><td valign="top">08/10/2023</td></tr>
+<tr><td valign="top">3d45e4e5fcb0792ba553a0a7de30bb153f955947</td><td valign="top">Merge pull request [#23](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/23) from StarsoftOrg/feature/navbar</td><td valign="top"></td><td valign="top">09/10/2023</td></tr>
+<tr><td valign="top">fd83e40e85e0c75ed96cded43571a5f561fb0715</td><td valign="top">Merge pull request [#24](https://github.com/StarsoftOrg/GoCareer-OpenSourceApp/pull/24) from StarsoftOrg/feature/auth</td><td valign="top"></td><td valign="top">11/10/2023</td></tr>
+<tr><td rowspan="72" valign="top">GoCareer-API</td><td rowspan="72" valign="top">develop</td><td valign="top">b1c88deaf0e92203b893c74c3438d11f31b5cedd</td><td valign="top">(feat) user name value object added</td><td valign="top"></td><td valign="top">19/10/2023</td></tr>
+<tr><td valign="top">7b0ac8591df13e0a43f0af65bb66f382083c00cf</td><td valign="top">(feat) user email address value object added</td><td valign="top"></td><td valign="top">19/10/2023</td></tr>
+<tr><td valign="top">7b8176b7e245f85cde80611f1384681686eaaa6f</td><td valign="top">(feat) profile aggregate and description/specialist validation added</td><td valign="top"></td><td valign="top">19/10/2023</td></tr>
+<tr><td valign="top">02634b690d2287c9d5e258b3b9ba4bc426b5b0f6</td><td valign="top">(feat) meeting bc StudentID value object added</td><td valign="top"></td><td valign="top">21/10/2023</td></tr>
+<tr><td valign="top">e6e895ef47ccbb004174293b469d59e86c586a7e</td><td valign="top">(feat) meeting bc ProfileId value object added</td><td valign="top"></td><td valign="top">21/10/2023</td></tr>
+<tr><td valign="top">5acfb64a3dcdb6fe7c4b87481302f44622200c4f</td><td valign="top">(feat) Test aggregate added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">3238c16677e76b8d4bdc5a66b60d8979b647ee3c</td><td valign="top">(feat) Test status value object added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">b3e2fd8a83b63ac4e3f20496eb798fa0c617014a</td><td valign="top">(feat) TestPath item entity added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">5a93d980c9f996d3ee83506fa70487bdd2def3f0</td><td valign="top">(feat) TestPath item entity added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">a83ad42ab628c6e4f9b65db91f9837f88995c305</td><td valign="top">(feat) Question entity added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">02feb138edeef3b955f4c24382de806ba7aeb1d1</td><td valign="top">(feat) ProfileId record added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">11c046bd0269649d82dd1dbae12094252e5877db</td><td valign="top">(feat) Test repository added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">c92bb706abbb1816c322f37fa3192c2fc041dc0a</td><td valign="top">(feat) Test Path added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">b1d4ccaf56a5c79abaafbad4774a3e6b8aae8005</td><td valign="top">(feat) Test Record Item added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">dee710367fb3281e64581af57969994dedb7cc82</td><td valign="top">(feat) Question alternative added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">da21a348d446372eee6fe456656c4ba1d1ed36c6</td><td valign="top">(fix) Question attributes modified</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">4211860047343bd9f5ca2508f3bb9e7bdcca9825</td><td valign="top">(fix) Profile modified</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">74b578e6bfd9377c27b8c446b0175c026df26b28</td><td valign="top">(fix) init Application modified</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">e33784a1cc138f820d50256e8a0d4dcffd39501a</td><td valign="top">(feat) enrollment status added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">6ac4a701d398e54397ddd3086559c7952533a8f2</td><td valign="top">(fix) Auditable model modified</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">259008d5a80b9295b85d0fea3413dbe5b7beba69</td><td valign="top">(feat) application properties added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">b288d74405da8250ffbcad72ae3b94c13bf0f3bf</td><td valign="top">(feat) Meeting repository added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">20808e581c740730471b782a42967a25f969116e</td><td valign="top">(feat) Reunion entity added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">3488d20c1b4513d23e04febda6373681be4dea8a</td><td valign="top">(feat) Student repository added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">640b86c0ecd7108a5d8d53e1b5843a4ec417905b</td><td valign="top">(feat) Student aggregate added</td><td valign="top"></td><td valign="top">24/10/2023</td></tr>
+<tr><td valign="top">a5ad46e03b7403edf06991600c8686d7c0669fb2</td><td valign="top">(fix) profile internal command added</td><td valign="top"></td><td valign="top">25/10/2023</td></tr>
+<tr><td valign="top">251db375a76e1c0d2770c6384d61edb15fa24a1d</td><td valign="top">meeting bc queries added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">843e51f6454b2e83b21f6f55dcc53e319adb14b8</td><td valign="top">meeting item added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">d319566910be5cc6bd4a8e63a8598d35aaa2fd44</td><td valign="top">reunion entity added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">da80e3d2566feefe846f4986bb39d6a8cd9d32a3</td><td valign="top">specialist and student aggregates added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">30d0ea09293d73d9166d8c96780fe19798486ddb</td><td valign="top">dependencies updated</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">b7aadb28c46f6616c6f8d896347c451d6252209f</td><td valign="top">start file updated</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">eee763a806ce06fd5b02943e968335853ac12c21</td><td valign="top">openAPI documentation added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">74cb628831ee1979c34c751c053d4d2d107d0138</td><td valign="top">Enrollment aggregate and status added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">6b671c8ab1ab4d3368a39833775b169f57d6c966</td><td valign="top">Meeting aggregate added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">8c984e14f86d0d745744288e8a0d0111192c7d6c</td><td valign="top">Student and Specialist recordId added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">fd4a1bad6d0026a02ecbf9595c810545fb6bc273</td><td valign="top">ProfileId value object added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">034d9ff80686cd873723405d96e4f8ce5d698d3b</td><td valign="top">Profile Repository added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">19ac09dca9d07c283f3ddfa27ea80c20b25c8b9e</td><td valign="top">Profile Resource and create added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">f157af1064a30908c012a9b461d90249233e161e</td><td valign="top">Profile Resource rest transform added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">23db629b19478fa6193e7594bc304e11920926ec</td><td valign="top">Profile Query/Command service added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">28dd78d58c5aa0acb7eb2acfa2909ececbfd876f</td><td valign="top">Profile value objects added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">9b07edd653e0af7e0f4d925d581c7729bd7e73f0</td><td valign="top">Create profile command added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">9bf98776f62c83873155ad75ca7fb73dbce52c67</td><td valign="top">(feat) Profile aggregate added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">3a492a36eb2a3f3005c4322509e4420b182f3a16</td><td valign="top">(feat) Profile Query Service impl. added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">124ea125f92115c5133249922e82b767f72a11d4</td><td valign="top">(feat) Profile Command Service Impl. added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">2cb0c970d99655fbc329ab4051ecc5b313d1e227</td><td valign="top">(fix) Create profile command modified</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">8be200e3dc718676553ab3517f671900f2d0a8b9</td><td valign="top">(fix) Profile Query service modified</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">1f20cd0ec11813361b0bfc638087225265568d26</td><td valign="top">(feat) Profile Controller added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">3ca30806e1e33c859e64c0cabf00a0f4775fea45</td><td valign="top">(feat) Meeting not found exception added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">694d428589ce51ede1e7b8459e2ecb919be27e47</td><td valign="top">(feat) Meeting commands added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">f7186c27c351b84b69be3e43754370a89fbf680d</td><td valign="top">(feat) Meeting commands added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">87a396de7d6546204142ebd5db79c21c15a22259</td><td valign="top">(feat) Meeting commands added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">f9e784803b3749524a2ed5371100a9a5f640e11e</td><td valign="top">(feat) Request command added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">f9e784803b3749524a2ed5371100a9a5f640e11e</td><td valign="top">(feat) create student/specialist command added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">186ae23a7034f4078aa45d8a8fd48232aedb47f0</td><td valign="top">(feat) meeting query service added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">90d49e4b4a08f6d34d63e5a85121b48a3ffecbd6</td><td valign="top">(feat) enrollment query service added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">26820f3d6ce86337a26169be64ecb4c17f89dab4</td><td valign="top">(fix) meeting query service modified</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">b6d0d31298471fb7ed768b137c7244fb39b44c8d</td><td valign="top">(feat) student by record id added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">471d59169bed791b5ee05b957ddb1df840007f74</td><td valign="top">(feat) student query service interface added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">ee9bf83f5bc75474dbdfe1b1c159aa2983ca959f</td><td valign="top">(feat) specialist query service interface added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">4a3845347db072d221e1b556fc0e1f724f388d3a</td><td valign="top">(feat) specialist/student command services added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">160c3c8c1d9e93e3d4dfa67644c0810fa938003d</td><td valign="top">(feat) enrollment/meeting command services added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">5aec8bea9d2859f61e911991220adb28ddd5f2a6</td><td valign="top">(feat) reject enrollment command services added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">10fa93f7da70d0d6aef255e891604f922d19fd54</td><td valign="top">(feat) enrollment repository added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">00758f833f8a35284149c971dd1caa97ceb208ed</td><td valign="top">(feat) student repository added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">8c175e7b727abbe82978ee7799ba8f890bfbc295</td><td valign="top">(feat) specialist repository added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">8cd0ac0e86a50acd400c586401a1a96fdbca59bd</td><td valign="top">(feat) meeting repository added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">58e4fcc2a621b82e9b8cd384127c7d2d623a712b</td><td valign="top">(feat) specialist career value object added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">15eeec4b36c877d3847ebe7a90ea034fada1225f</td><td valign="top">(feat) snake case physical naming strategy added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">127beb2c1fa140fc39f472aaf30e3f05b7068b07</td><td valign="top">(feat) meetingpath value object added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top">dde84f7745138e997262c9c38c1e51f491bff7a4</td><td valign="top">(feat) student query service impl added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+<tr><td valign="top"></td><td valign="top"></td><td valign="top">6a3a3c270185cc2ecf8058d6a712240684816fb2</td><td valign="top">(feat) specialist query service impl added</td><td valign="top"></td><td valign="top">05/11/2023</td></tr>
+</table>
+
+**5.2.3.4.Testing Suite Evidence for Sprint Review.**
+En el alcance del sprint, no se han desarrollado funcionalidades referentes al testing en el backend del API. Por consiguiente, la tabla se encuentra vacía.
+
+|**Repository**|**Branch**|**Commit Id** |**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| - | - | - | - | - | - |
+|||||||
+
+**5.2.3.5.Execution Evidence for Sprint Review.**
+
+**5.2.3.6.Services Documentation Evidence for Sprint Review.**
+
+**5.2.3.7.Software Deployment Evidence for Sprint Review.**
+
+La aplicación se desplegó en Azure
+
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónicoDescripción generada automáticamente](Images/Aspose.Words.08c48170-61e6-4c81-b5bd-681fbf0c8a02.002.png)
+
+![Interfaz de usuario gráfica, Texto, Aplicación, Correo electrónicoDescripción generada automáticamente](Images/Aspose.Words.08c48170-61e6-4c81-b5bd-681fbf0c8a02.003.png)
+
+**5.2.3.8.Team Collaboration Insights during Sprint.**
+
+El equipo desarrolló las correcciones del Web Application, como el avance del Web Service mediante el uso de las ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama main. A continuación, se presenta el insight del equipo a través de la plataforma GitHub:
+
+![Interfaz de usuario gráficaDescripción generada automáticamente](Images/Aspose.Words.08c48170-61e6-4c81-b5bd-681fbf0c8a02.004.png)
+
+![Captura de pantalla de un celularDescripción generada automáticamente](Images/Aspose.Words.08c48170-61e6-4c81-b5bd-681fbf0c8a02.005.png)
+
+**5.3. Validation Interviews.**
+
+A continuación, y tras haber desarrollado las más recientes versiones de nuestro frontend y backend, procederemos a realizar una serie de entrevistas de validación del comportamiento actual de nuestro software frente a usuarios objetivos
+
+**5.3.1. Diseño de entrevistas.**
+
+Preguntas generales para ambos segmentos objetivos:
+
+- ¿Cuál es su nombre completo?
+- ¿Su edad actual?
+- ¿Actualmente estudia? Sí procede, ¿qué carrera y en qué centro o facultad?
+- ¿Actualmente se encuentra trabajando? Sí procede, ¿en qué y dónde?
+
+Preguntas principales tras operar la aplicación:
+
+- ¿Qué opina del diseño de nuestra landing page?
+- ¿Considera que el contenido de la aplicación es de su agrado? ¿Algún aspecto que debería ser mejorado?
+- ¿Qué opinión tiene de las funcionalidades de la aplicación?
+- Según su experiencia, ¿la aplicación resultó ser intuitiva en su manejo? ¿Algo que se deba mejorar en su opinión?
+- ¿Considera útiles los mensajes de ayuda y error presentes en la aplicación?
+
+Preguntas complementarias:
+
+- ¿Qué tipo de dispositivo es el que utiliza con más frecuencia? ¿Cree que nuestra aplicación operaría sin problema en él?
+- ¿Algún navegador de su preferencia para futuras referencias?
+
+**5.3.2. Registro de entrevistas.**
+
+Entrevistado: Nicolas Collantes Artola (19 años)
+
+Link: [Validation Interviews - Collantes](https://drive.google.com/drive/folders/1yOVbbCiSU7YVbJzY9cyz2UdzVWces2sS)
+
+![Interfaz de usuario gráfica, AplicaciónDescripción generada automáticamente](Images/Aspose.Words.08c48170-61e6-4c81-b5bd-681fbf0c8a02.006.png)
+
+Actualmente siendo un estudiante de la carrera de Ingeniería Industrial de la UPC, el entrevistado demuestra un profundo interés en el desarrollo de una aplicación como la nuestra. Él encuentra bastante atractiva la presentación actual de nuestro landing page, tanto en los colores elegidos para el mismo como para el contenido que se despliega en el mismo, y considera que nuestra aplicación, aunque de momento aún en desarrollo, está bastante bien aplicada más puede ser mejorada a futuro con nuevas funcionalidades como el compartir la experiencia de trabajos con otros usuarios de la plataforma. También se puede apreciar un poco de dificultad en encontrar algunas funciones a trabajar, pero que pueden ser tratados en futuras versiones del mismo.
+
+**5.3.3. Evaluaciones según heurísticas.**
+
+**Auditoría recibida:**
+
+Auditores: Entrevistados
+
+SITE or APP: GoCareer
+
+**Tareas para evaluar:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas: 
+
+- Actualizar design para las imágenes
+
+**Escala de severidad:**
+
+Tomando en cuenta la siguiente escala de severidad
+
+
+|Nivel|Descripción |
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+**Tabla de resumen:**
+
+
+|**#**|**Problema**|**Escala de severidad**|**Heurística/Principio violada(o)**|
+| :- | :- | :- | :- |
+|**1**|Saturación visual en las imágenes.|3|Principios de Inclusive Design: Sé consistente. |
+|**2**||||
+|**3**||||
+
+**Descripción de Problemas:**
+
+**Problema #1:** Las imágenes son grandes y eso puede ocasionar una saturación visual en el usuario.
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Libertad y control del usuario.
+
+**Problema:** Cuando el usuario ingresa a la app, las imágenes pueden ser cansadas para el usuario y generar una saturación visual.
+
+**Recomendación:** Buscar un tamaño estándar para imágenes e iconos.
+
+**5.4. Video About-the-Product.**
+
+Se incluye en esta sección el video About-the-Product de nuestra aplicación, de forma que se puedan presentar sus funcionalidades a los usuarios en potencia y posibles inversores a futuro.
+
+Link del video: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u201410183_upc_edu_pe/EYgLkzj1_3pDuDN1aNvPjtkBXGakSPVndY0RScY8mrkY1A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=7eJXzq>  
+
+Duración: 3:00 
+
+![Interfaz de usuario gráfica, Texto, AplicaciónDescripción generada automáticamente](Images/Aspose.Words.08c48170-61e6-4c81-b5bd-681fbf0c8a02.007.png)
+
 
 
 
